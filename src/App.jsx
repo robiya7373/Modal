@@ -11,7 +11,7 @@ function App() {
     <>
       <div className="app">
        {showModal && <Modal setShowModal={setShowModal} />}
-        <button onClick={openModal} className="open-btn">Open Modal</button>
+        <button onClick={openModal} className="open-btn">Welcome To The Mod</button>
       </div>
     </>
   );

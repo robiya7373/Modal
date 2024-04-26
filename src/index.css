@@ -18,17 +18,20 @@
 }
 
 .open-btn {
-  padding: 9px 15px;
+  padding: 10px 15px;
   border: none;
   background-color: #ea6adf;
   color: #fff;
   font-size: 24px;
   border-radius: 8px;
   cursor: pointer;
+  margin-bottom: -0.5rem;
+  margin-right: -2rem;
 }
 
 .open-btn:hover {
   scale: 1.05;
+  box-shadow: 0 10px 15px rgba(172, 8, 155, 0.5);
 }
 
 .backdrop {
